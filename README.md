@@ -37,6 +37,8 @@ On this GitHub profile you can find my programming work that I've done, be it as
 - Python
 - Docker
 - Java
+  
+Databases:
 - SQL
 - SQL Server
 - Azure Cosmos DB for NoSQL
@@ -50,3 +52,7 @@ On top of these main ones I have utilised many other to various degrees during m
 - C++
 - Haskell
 - Assembly
+- PyTorch
+- TensorFlow
+- Angular
+- Next.js
