@@ -30,11 +30,19 @@ On this GitHub profile you can find my programming work that I've done, be it as
 ## Languages, Frameworks and Tools
 - C#
 - .NET
-- JavaScript/TypeScript (HTML, CSS)
+- JavaScript/TypeScript
+- HTML
+- CSS
 - React
 - Python
 - Docker
 - Java
+
+- SQL
+- SQL Server
+- Azure Cosmos DB for NoSQL
+- Azure Blob Storage
+- MongoDB
 
 On top of these main ones I have utilised many other to various degrees during my programming journey, such as:
 - Arduino
