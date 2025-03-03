@@ -37,7 +37,6 @@ On this GitHub profile you can find my programming work that I've done, be it as
 - Python
 - Docker
 - Java
-
 - SQL
 - SQL Server
 - Azure Cosmos DB for NoSQL
