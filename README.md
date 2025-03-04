@@ -30,6 +30,7 @@ On this GitHub profile you can find my programming work that I've done, be it as
 ## Languages, Frameworks and Tools
 - C#
 - .NET
+- Blazor
 - JavaScript/TypeScript
 - HTML
 - CSS
