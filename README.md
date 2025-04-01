@@ -7,9 +7,6 @@ My studies and other practice have given me strong knowledge to be able to work 
 
 On this GitHub profile you can find my programming work that I've done, be it as official studies or personal projects aimed at bettering my skills.
 
-## Contact info
-- Email: [paavo_karppinen@outlook.com](mailto:paavo_karppinen@outlook.com)
-
 ## Main Projects
 - [**Cinereg**](https://github.com/paavkar/Cinereg): a web-application made with Blazor. The purpose of this app is to save information about the movies
   and/or series you have watched in any particular year.
