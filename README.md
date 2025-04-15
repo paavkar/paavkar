@@ -12,8 +12,9 @@ On this GitHub profile you can find my programming work that I've done, be it as
   and/or series you have watched in any particular year.
 - [**IoTCloud**](https://github.com/paavkar/IoTCloud): another Blazor-based web-application. The goal of this project was to make an application
   that would store readings from different sensors (humidity, temperature, etc.) The functionality was sort of inspired by [*asksensors*](https://asksensors.com/).
-- [**IoTDeviceManager**](https://github.com/paavkar/IoTDeviceManager): second application to focus on IoT devices. Created to display status information
-  of potential IoT devices. Created by using .NET Web API, Identity, React (Fluent UI), Angular (PrimeNG), Docker, Nginx, SQL Server
+- [**IoTDeviceManager**](https://github.com/paavkar/IoTDeviceManager): second application to focus on IoT devices. The system's idea is to display device
+  status and manage them. Created by using .NET Web API, Identity, React (Fluent UI), Angular (PrimeNG), Docker, Nginx, SQL Server, Azure Cosmos DB
+  for NoSQL. The device and cloud sides of the system include Azure IoT Hub and an Azure Funcion with an Arduino. [Device software](https://github.com/paavkar/EmbeddedProjects/tree/main/AzureIoTHub).
 - [**SocialMediaApp**](https://github.com/paavkar/SocialMediaApp): the goal of this app was to practise with React after a couple of years, and also use
   new (to me) data storages in practice (Azure Cosmos DB for NoSQL, Azure Blob Storage). It was modeled after how [*BlueSky*](https://bsky.app) works.
 - [**ContinuousSoftwareEngineering**](https://github.com/paavkar/TJTS5901ContinuousSoftwareEngineering): a uni course where the task was to create an auction
@@ -24,8 +25,8 @@ On this GitHub profile you can find my programming work that I've done, be it as
 - [**BskyPosts**](https://github.com/paavkar/BskyPosts): created to use it to fetch posts from my BlueSky account to show them on my website. Uses
   the [ATProto Python SDK](https://atproto.blue/en/latest/) to fetch any given user's posts (what username is given in request).
 - [**NeuralNetworks**](https://github.com/paavkar/NeuralNetworks): repository where I just store my Neural Network/Machine Learning practising.
-- [**EmbeddedProjects**](https://github.com/paavkar/EmbeddedProjects): this repository will eventually host my embedded systems projects. Currently has
-  just one linked with *IoTDeviceManager*.
+- [**EmbeddedProjects**](https://github.com/paavkar/EmbeddedProjects): this repository will eventually host my embedded systems projects. The repo currently
+  has two projects, one more sophisticated and one just HTTP based linked with *IoTDeviceManager*.
 - [**Solteq-assignment**](https://github.com/paavkar/Solteq-assignment): task given in a Solteq job recruitment.
 
 ## Languages, Frameworks and Tools
