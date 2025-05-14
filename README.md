@@ -15,6 +15,11 @@ On this GitHub profile you can find my programming work that I've done, be it as
 - [**IoTDeviceManager**](https://github.com/paavkar/IoTDeviceManager): second application to focus on IoT devices. The system's idea is to display device
   status and manage them. Created by using .NET Web API, Identity, React (Fluent UI), Angular (PrimeNG), Docker, Nginx, SQL Server, Azure Cosmos DB
   for NoSQL. The device and cloud sides of the system include Azure IoT Hub and an Azure Funcion with an Arduino. [Device software](https://github.com/paavkar/EmbeddedProjects/tree/main/AzureIoTHub).
+- [**AIChat**](https://github.com/paavkar/AIChat): a program that includes a Discord and Twitch bots with a Django project. The idea of this program was to
+  create something that could interact with different Twitch events. Currently the program works as a Discord bot which you can talk with. This capability
+  is achieved with recording your audio in a voice channel you and the bot are, transcribing the audio with Whisper, generating a response with Ollama local
+  LLM and then using [Coqui TTS](https://coqui-tts.readthedocs.io/en/latest/) to synthesize the ollama response and then finally play the audio file in the
+  Discord voice channel.
 - [**SocialMediaApp**](https://github.com/paavkar/SocialMediaApp): the goal of this app was to practise with React after a couple of years, and also use
   new (to me) data storages in practice (Azure Cosmos DB for NoSQL, Azure Blob Storage). It was modeled after how [*BlueSky*](https://bsky.app) works.
 - [**ContinuousSoftwareEngineering**](https://github.com/paavkar/TJTS5901ContinuousSoftwareEngineering): a uni course where the task was to create an auction
