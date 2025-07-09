@@ -8,13 +8,17 @@ My studies and other practice have given me strong knowledge to be able to work 
 On this GitHub profile you can find my programming work that I've done, be it as official studies or personal projects aimed at bettering my skills.
 
 ## Main Projects
-- [**Cinereg**](https://github.com/paavkar/Cinereg): a web-application made with Blazor. The purpose of this app is to save information about the movies
-  and/or series you have watched in any particular year.
-- [**IoTCloud**](https://github.com/paavkar/IoTCloud): another Blazor-based web-application. The goal of this project was to make an application
-  that would store readings from different sensors (humidity, temperature, etc.) The functionality was sort of inspired by [*asksensors*](https://asksensors.com/).
+- [**CommunicationsApp**](https://github.com/paavkar/CommunicationsApp): web-application built with Blazor and SignalR for real-time communication.
+  Built to replicate the style of function of Discord. App includes servers and channels where users communicate between each other. Servers include
+  permissions that by the name permit users to do certain tasks. Users/clients are kept up-to-date with SignalR for example for new messages, joining or
+  leaving members or any other updates. Users can join servers or create their own, each equipped with server-specific profile.
 - [**IoTDeviceManager**](https://github.com/paavkar/IoTDeviceManager): second application to focus on IoT devices. The system's idea is to display device
   status and manage them. Created by using .NET Web API, Identity, React (Fluent UI), Angular (PrimeNG), Docker, Nginx, SQL Server, Azure Cosmos DB
   for NoSQL. The device and cloud sides of the system include Azure IoT Hub and an Azure Funcion with an Arduino. [Device software](https://github.com/paavkar/EmbeddedProjects/tree/main/AzureIoTHub).
+- [**IoTCloud**](https://github.com/paavkar/IoTCloud): another Blazor-based web-application. The goal of this project was to make an application
+  that would store readings from different sensors (humidity, temperature, etc.) The functionality was sort of inspired by [*asksensors*](https://asksensors.com/).
+- [**Cinereg**](https://github.com/paavkar/Cinereg): a web-application made with Blazor. The purpose of this app is to save information about the movies
+  and/or series you have watched in any particular year.
 - [**AIChat**](https://github.com/paavkar/AIChat): a program that includes a Discord and Twitch bots with a Django project. The idea of this program was to
   create something that could interact with different Twitch events. Currently the program works as a Discord bot which you can talk with. This capability
   is achieved with recording your audio in a voice channel you and the bot are, transcribing the audio with Whisper, generating a response with Ollama local
@@ -38,17 +42,16 @@ On this GitHub profile you can find my programming work that I've done, be it as
 - C#
 - .NET
 - Blazor
+- SignalR
 - JavaScript/TypeScript
-- HTML
-- CSS
+- HTML/CSS
 - React
 - Python
 - Docker
 - Java
   
 Databases:
-- SQL
-- SQL Server
+- MS SQL Server
 - Azure Cosmos DB for NoSQL
 - Azure Blob Storage
 - MongoDB
