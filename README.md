@@ -31,6 +31,8 @@ On this GitHub profile you can find my programming work that I've done, be it as
   was required to be deployed to Azure with Docker for the course. Main of my work was with the Express-based backend.
 
 ## Minor Projects
+- [**DiscordNETBot**](https://github.com/paavkar/DiscordNETBot): Discord bot created with Discord.NET. The bot has music playback functionality in a
+  Voice Channel. There is a Semantic Kernel integration for two commands: one for simple queries, one where the chat history is saved.
 - [**BskyPosts**](https://github.com/paavkar/BskyPosts): created to use it to fetch posts from my BlueSky account to show them on my website. Uses
   the [ATProto Python SDK](https://atproto.blue/en/latest/) to fetch any given user's posts (what username is given in request).
 - [**NeuralNetworks**](https://github.com/paavkar/NeuralNetworks): repository where I just store my Neural Network/Machine Learning practising.
@@ -56,6 +58,11 @@ Databases:
 - Azure Blob Storage
 - MongoDB
 
+AI/Machine Learning:
+- Semantic Kernel
+- PyTorch
+- TensorFlow
+
 On top of these main ones I have utilised many other to various degrees during my programming journey, such as:
 - Arduino
 - WPF
@@ -63,7 +70,5 @@ On top of these main ones I have utilised many other to various degrees during m
 - C++
 - Haskell
 - Assembly
-- PyTorch
-- TensorFlow
 - Angular
 - Next.js
