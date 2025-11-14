@@ -33,6 +33,8 @@ On this GitHub profile you can find my programming work that I've done, be it as
   was required to be deployed to Azure with Docker for the course. Main of my work was with the Express-based backend.
 
 ## Minor Projects
+- [**CleanArchitectureIdentityTemplate**](https://github.com/paavkar/CleanArchitectureIdentityTemplate): this is a template solution on .NET I created
+  to easily create a solution wtih a .NET Web API and ASP.NET Core Identity in a Clean Architecture structure.
 - [**DiscordNETBot**](https://github.com/paavkar/DiscordNETBot): Discord bot created with Discord.NET. The bot has music playback functionality in a
   Voice Channel. There is a Semantic Kernel integration for two commands: one for simple queries, one where the chat history is saved.
 - [**BskyPosts**](https://github.com/paavkar/BskyPosts): created to use it to fetch posts from my BlueSky account to show them on my website. Uses
