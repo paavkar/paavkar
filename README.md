@@ -9,7 +9,8 @@ On this GitHub profile you can find my programming work that I've done, be it as
 
 ## Main Projects
 - [**AgricultureApp**](https://github.com/paavkar/AgricultureApp): as the name suggests, this project is supposed to have functionality related
-  to agriculture. Currently has only a REST API (.NET Web API) for authentication (ASP.NET Core Identity + JWT). Project structure with Clean Architecture.
+  to agriculture. Currently has a .NET Web API (REST) for farms, fields, and cultivations, plus authentication with JWT.
+  Uses SignalR to send messages (notifications) to other users. Project structure with Clean Architecture.
 - [**CommunicationsApp**](https://github.com/paavkar/CommunicationsApp): web-application built with Blazor and SignalR for real-time communication.
   Built to replicate the style of function of Discord. App includes servers and channels where users communicate between each other. Servers include
   permissions that by the name permit users to do certain tasks. Users/clients are kept up-to-date with SignalR for example for new messages, joining or
