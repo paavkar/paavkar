@@ -8,6 +8,10 @@ My studies and other practice have given me strong knowledge to be able to work 
 On this GitHub profile you can find my programming work that I've done, be it as official studies or personal projects aimed at bettering my skills.
 
 ## Main Projects
+- [**BikeRegister**](https://github.com/paavkar/BikeRegister): this application is the first one I started with my .NET template. As an additional
+  feature to the template, user personal data is encrypted on the database. In this project I practised using EF Core for database operations.
+  The goal of this application was to practise new (to me) React tech. This new tech being the TanStack family of routing, queries, and forms.
+  I also mixed TanStack Query with Hey API. More detailed information is found on the repository README.
 - [**AgricultureApp**](https://github.com/paavkar/AgricultureApp): as the name suggests, this project is supposed to have functionality related
   to agriculture. Currently has a .NET Web API (REST) for farms, fields, and cultivations, plus authentication with JWT. Includes Semantic Kernel
   integration for LLM usage. LLM can be used to ask about the farms cultivated fields or a specific field. Uses function calling to fetch
